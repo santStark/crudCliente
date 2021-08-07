@@ -24,7 +24,7 @@ Ambos utilizam a mesma API feita com node utilizando a base de dados em mysql.
 - Execute o comando "npm run dev" 
 - Abra o navegador http://localhost:3000/
 
-##Vue
+## Vue
 - Entre na pasta cadastro2.
 - Execute o comando "npm install"
 - Altere o arquivo .\src\api\api.js com seu caminho da api.
